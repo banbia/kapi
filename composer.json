@@ -1,12 +1,12 @@
 {
-    "name": "manuelgil/rest-api-with-slim-php",
-    "description": "REST API with PHP Slim Framework 3 and MySQL",
+    "name": "kapi",
+    "description": "",
     "type": "project",
-    "license": "MIT",
+    "license": "",
     "authors": [
         {
-            "name": "Manuel Gil",
-            "email": "atencion.ms@outlook.com"
+            "name": "KapFreelancer",
+            "email": ""
         }
     ],
     "require": {
