@@ -16,11 +16,19 @@ class ComposerStaticInit08abee5fba5a19f1c5eb21b514d07d73
             'Slim\\Middleware\\' => 16,
             'Slim\\' => 5,
         ),
+        'R' => 
+        array (
+            'RKA\\ContentTypeRenderer\\' => 24,
+        ),
         'P' => 
         array (
             'Psr\\Log\\' => 8,
             'Psr\\Http\\Message\\' => 17,
             'Psr\\Container\\' => 14,
+        ),
+        'N' => 
+        array (
+            'Negotiation\\' => 12,
         ),
         'M' => 
         array (
@@ -46,6 +54,10 @@ class ComposerStaticInit08abee5fba5a19f1c5eb21b514d07d73
         array (
             0 => __DIR__ . '/..' . '/slim/slim/Slim',
         ),
+        'RKA\\ContentTypeRenderer\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/akrabat/rka-content-type-renderer/src',
+        ),
         'Psr\\Log\\' => 
         array (
             0 => __DIR__ . '/..' . '/psr/log/Psr/Log',
@@ -57,6 +69,10 @@ class ComposerStaticInit08abee5fba5a19f1c5eb21b514d07d73
         'Psr\\Container\\' => 
         array (
             0 => __DIR__ . '/..' . '/psr/container/src',
+        ),
+        'Negotiation\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/willdurand/negotiation/src/Negotiation',
         ),
         'Monolog\\' => 
         array (

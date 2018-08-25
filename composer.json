@@ -6,12 +6,13 @@
     "authors": [
         {
             "name": "KapFreelancer",
-            "email": ""
+            "email": "nourelhouda.banbia@gmail.com"
         }
     ],
     "require": {
         "slim/slim": "^3.9",
         "monolog/monolog": "^1.23",
-        "tuupola/slim-jwt-auth": "^2.3"
+        "tuupola/slim-jwt-auth": "^2.3",
+        "akrabat/rka-content-type-renderer": "^0.8.0"
     }
 }
